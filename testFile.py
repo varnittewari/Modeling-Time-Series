@@ -1,2 +1,4 @@
-import panda as panda
+def main():
+    print("Hello World")
 
+main()
